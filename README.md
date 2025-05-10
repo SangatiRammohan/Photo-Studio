@@ -28,6 +28,6 @@
 
 ```bash
 git clone https://github.com/SangatiRammohan/Photo-Studio.git
-cd vivaha-muchatlu
+cd photo-studio
 npm install
 npm run dev
