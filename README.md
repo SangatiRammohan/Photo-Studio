@@ -1,12 +1,33 @@
-# React + Vite
+# 📸 Vivaha Muchatlu – Photo Studio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Vivaha Muchatlu** is a beautifully designed photo studio website built with Sanju. It showcases wedding memories, photo albums, and booking features for clients seeking professional photography services.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Elegant landing page with wedding themes
+- Dynamic photo gallery (wedding, pre-wedding, candid, etc.)
+- Client booking form and contact section
+- Responsive design for all devices
+- Portfolio sections with placeholder or real images
+- Built with performance and aesthetics in mind
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Frameworks:** React.js (Vite) / 
+- **Styling:** Tailwind CSS / Bootstrap
+- **Routing:** React Router DOM
+- **Deployment:** GitHub Pages /Netlify 
+
+## 🖼️ Project Preview
+
+![Vivaha Muchatlu Preview](src/assets/Portfolio.png)
+
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/SangatiRammohan/Photo-Studio.git
+cd vivaha-muchatlu
+npm install
+npm run dev
